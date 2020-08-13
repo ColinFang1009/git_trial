@@ -1,1 +1,2 @@
 intro to git linux day 3
+changes from the second folder
