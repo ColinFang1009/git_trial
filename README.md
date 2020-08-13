@@ -1,2 +1,2 @@
-# git_trial
+# Git Linux
 Testing git.
